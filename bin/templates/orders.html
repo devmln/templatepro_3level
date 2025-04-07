@@ -1,0 +1,28 @@
+﻿{{extends "baselayout.html"}}
+{{block "body"}}
+<!--{{:orders|json}} -->
+{{if !orders}}
+		<div class="divTableRow">
+			<span>No orders found</span>
+		</div>
+		{{endif}}
+		{{for o in orders}}
+			<h4>order id : {{:o.id}}</h4>
+
+			<td class="divTableCell">custommer id :{{:o.idcustomer}}</td>
+			<td class="divTableCell">Total : {{:o.total}}</td>
+            <br>
+            {{if o.orderItems}}
+            {{for i in o.orderItems}}
+            <table>
+            <tr>
+                    <td class="divTableCell">{{:i.id}}</td>
+                    <td class="divTableCell">{{:i.description}}</td>
+                    </tr>
+           </table>
+            {{endfor}}
+            {{endif}}
+
+
+		{{endfor}}
+{{endblock}}

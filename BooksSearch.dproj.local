@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025-04-06 11:45:08.156,=D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\bin\templates\baselayout.html</Transaction>
+    <Transaction>2025-04-06 11:45:08.219,=D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\bin\templates\index.html</Transaction>
+    <Transaction>2025-04-06 11:45:08.250,=D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\bin\templates\search_results.html</Transaction>
+    <Transaction>2025-04-06 11:55:48.194,=D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\BusinessObjects.pas</Transaction>
+    <Transaction>2025-04-06 11:55:48.256,=D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\Commons.pas</Transaction>
+    <Transaction>2025-04-06 11:55:48.319,=D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\Controllers.Base.pas</Transaction>
+    <Transaction>2025-04-06 11:55:48.365,=D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\Controllers.Orders.pas</Transaction>
+    <Transaction>2025-04-06 12:24:09.113,=D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\bin\templates\orders.html</Transaction>
+    <Transaction>2025-04-07 08:37:12.748,D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\bin\templates\orders2.html=D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\bin\templates\orders.html</Transaction>
+    <Transaction>2025-04-07 08:37:28.423,=D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\bin\templates\orders.html</Transaction>
+    <Transaction>2025-04-07 08:42:10.471,D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\Controllers.BooksU.pas=</Transaction>
+    <Transaction>2025-04-07 08:43:59.372,D:\_composant\delphimvcframework-master3.4.2\samples\instant_search_with_htmx_and_templatepro\bin\templates\index.html=</Transaction>
+  </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="bin"/>
+    <File Path="bin\templates"/>
+    <File Path="bin\templates\baselayout.html"/>
+    <File Path="bin\templates\orders.html"/>
+    <File Path="bin\templates\orders2.html"/>
+    <File Path="bin\templates\search_results.html"/>
+    <File Path="BusinessObjects.pas"/>
+    <File Path="Commons.pas"/>
+    <File Path="Controllers.Base.pas"/>
+    <File Path="Controllers.Orders.pas"/>
+    <File Path="FDConnectionConfigU.pas"/>
+    <File Path="WebModuleU.pas"/>
+    <File Path="WebModuleU.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
